@@ -12,10 +12,10 @@ on:
           - 'macos-latest'
           - 'ubuntu-20.04'
       url:
-        description: 'https://chat-preview.lobehub.com/chat?agent='
+        description: '[URL]'
         required: true
       name:
-        description: 'LobeChat'
+        description: '[Name]'
         required: true
       icon:
         description: '[Icon, Optional]'
